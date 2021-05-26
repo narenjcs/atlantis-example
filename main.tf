@@ -1,2 +1,4 @@
-resource "null_resource" "example" {
+provider "aws" {
 }
+# resource "null_resource" "example" {
+# }
